@@ -1,0 +1,35 @@
+#######################################################################
+# Wineries in Wagram › Niederösterreich [Lower Austria] (N) › Austria
+#
+# ~ 2_451 ha
+#
+#
+# Wichtige Weinbauorte:
+#   Feuersbrunn, Fels, Grossriedenthal, Gösing, Kirchberg, Großweikersdorf, Klosterneuburg
+
+
+________________________
+- Feuersbrunn
+
+
+[antonbauer]
+  Anton Bauer (1970)
+  Neufang 42 // 3483 Feuersbrunn
+  www.antonbauer.at
+  25 ha
+
+
+[ott]
+  Bernhard Ott (1972)|Weingut Ott|Weingut Ott Bernhard, 1889
+  Neufang 36 // 3483 Feuersbrunn
+  www.ott.at
+  30 ha
+  # Verein Österreichischen Traditionsweingüter (www.traditionsweingueter.at)
+
+
+[andreaspolsterer]
+  Andreas B. Polsterer (1970)|Weingut Andreas B. Polsterer
+  www.weingut-polsterer.at
+  Neufang 9 // 3483 Feuersbrunn
+
+

@@ -1,0 +1,75 @@
+#######################################################################
+# Wines in Wagram › Niederösterreich [Lower Austria] (N) › Austria
+#
+#
+# Wichtigsten Rebsorten:
+#    Grüner Veltliner, Riesling, Roter Veltliner
+
+###
+# todo: add vintages (years)  plus details e.g. alk. % etc.
+
+
+__________________________________
+- Ott Bernhard, Feuersbrunn
+
+Am Berg (Grüner Veltliner), gr_veltliner
+Fass 4 (Grüner Veltliner), gr_veltliner
+Der Ott (Grüner Veltliner), gr_veltliner
+Feuersbrunner Spiegel - 1. Lage (Grüner Veltliner), gr_veltliner
+Engabrunner Stein - 1. Lage (Grüner Veltliner), gr_veltliner
+Feuersbrunner Rosenberg - 1. Lage (Grüner Veltliner), gr_veltliner
+
+Riesling von Rotem Schotter
+Rheinriesling
+
+
+___________________________________
+- Anton Bauer, Feuersbrunn
+
+Grüner Veltliner Gmörk
+Grüner Veltliner Rosenberg
+Grüner Veltliner Rosenberg Alte Reben
+Grüner Veltliner Spiegel
+Grüner Veltliner Grande Reserve
+
+Riesling Ried Berg
+Riesling Alte Reben
+
+Pinot Blanc Rosenberg (Weißburgunder)
+
+Chardonnay (Kreuzgang)
+Cuvée White (Grüner Veltliner/Pinot Blanc/Welschriesling)
+
+Rosé (Zweigelt/Syrah/Merlot)
+
+Blauer Zweigelt|Zweigelt
+Blauer Zweigelt Alte Reben
+Pinot Noir (Blauburgunder)
+Pinot Noir Reserve (Blauburgunder)
+Merlot Reserve
+Syrah Reserve
+Cabernet Sauvignon Reserve
+
+Wagram Cuveé (Zweigelt/Cabernet Sauvignon/Blaufränkisch/Merlot)
+Wagram Reserve|Reserve Ried Wagram (Cabernet Sauvignon/Blaufränkisch/Zweigelt/Syrah/Merlot)
+
+
+_____________________________________
+- Andreas Polsterer, Feuersbrunn
+
+Grüner Veltliner
+Grüner Veltliner Jakob
+Grüner Veltliner Hengstberg
+Grüner Veltliner Rosenberg
+
+Rivaner
+Welschriesling
+Riesling
+Chardonnay
+
+Roter Veltliner
+Blauer Zweigelt Reserve
+Blauburger
+Blauburger Barrique
+Cuvee Valentin (Cabernet Sauvignon/Pinot Noir)
+
