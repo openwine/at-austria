@@ -1,0 +1,175 @@
+
+________________________
+- Feuersbrunn
+
+[antonbauer]
+  *** Anton Bauer (1971)
+  Neufang 42 // 3483 Feuersbrunn
+  www.antonbauer.at
+  25 ha  #  Weingärten
+
+[josefbauer]
+  ** Weingut Josef Bauer|Joe Bauer|Josef Bauer (????)
+  Neufang 52 // 3483 Feuersbrunn
+  www.josefbauer.at
+  10 ha   # Weingärten
+  500 hl  # Jahresproduktion
+
+
+[bernhardott]
+  *** Weingut Ott|Weingut Bernhard Ott|Bernhard Ott (1972), 1889
+  Neufang 36 // 3483 Feuersbrunn
+  www.ott.at
+  30 ha   #  Weingärten
+  # Verein Österreichischen Traditionsweingüter (www.traditionsweingueter.at)
+
+
+[andreaspolsterer]
+  ** Weingut Andreas B. Polsterer|Andreas B. Polsterer (1970)
+  www.weingut-polsterer.at
+  Neufang 9 // 3483 Feuersbrunn
+  ?? ha
+
+[famhintermayer]
+  Weinbau Familie Hintermayer
+  Neufang 39 // 3483 Feuersbrun
+  ?? ha
+
+[bruendy]
+  *** Weingut Bründy|Weingut am Wagram|Winzerhof Rudolf Bründlmayer|Rudolf Bründlmayer (???)
+  Neufang 31 // 3483 Feuersbrunn
+  www.bruendy.at
+  ?? ha
+
+[walterposterer]
+  Weinbau Walter Polsterer
+  Neufang 25 // 3483 Feuersbrunn
+  www.weingut-polsterer.com
+  11 ha
+
+[gerholdkarl]
+  Weinbau Gerhold Karl
+  Neufang 34 // 3483 Feuersbrunn
+  ?? ha
+
+[weinhofmarek]
+  Weinhof Familie Marek|Heuriger im Hof|Martin Marek (1965)
+  Neufang 17 // 3483 Feuersbrunn
+  www.weinhofmarek.at
+  5 ha  #  Weingärten 
+
+[oehlzelt]
+  Weinbau & Weinberg Heuriger Öhlzelt|Ernestine Öhlzelt(????)
+  Neufang 15 // 3483 Feuersbrunn
+  www.oehlzelt.at
+  ?? ha
+
+[fampalk]
+  Weinbau Familie Palk
+  Neufang 14 // 3483 Feuersbrunn
+  ?? ha
+
+[erwinbayer]
+  Weinbau Erwin Bayer
+  Neufang 24 // 3483 Feuersbrunn
+  ?? ha
+
+[friedl]
+  Weinbau Friedl|Anton Frieldl (????)
+  Neufang 7 // 3483 Feuersbrunn
+  ?? ha
+
+
+[manfredeckenfellner]
+  Weinbau Eckenfellner|Manfred Eckenfellner (????)
+  Winklweg 1 // 3483 Feuersbrunn
+  ?? ha
+
+
+[geraldwimmer]
+  Winzerhof Gerald Wimmer|Gerald Wimmer (????) 
+  Große Zeile 8 // 3483 Feuersbrunn
+  ### www.winzerhofwimmer.com   -- no longer in use ??
+  ?? ha
+
+[waldhauser]
+  Weinbau Familie Waldhauser
+  Große Zeile 10 // 3483 Feuersbrunn
+  ?? ha
+
+[herbertwalzer]
+  Herbert Walzer ??? -- Weinbau???
+  Große Zeile 12 // 3483 Feuersbrunn
+  ?? ha
+
+[wernerschober]
+  Weinbau Werner Schober  -- Weinbau ???
+  Große Zeile 17 // 3483 Feuersbrunn
+  ?? ha
+
+[walterzehetmayer]
+  Walter Zehetmayer ??? -- Weinbau???
+  Große Zeile 34 // 3483 Feuersbrunn
+  ?? ha
+
+[ewaldhaslinger]
+  Weingut Ewald Haslinger|Ewald Haslinger (????)
+  Große Zeile 44 // 3483 Feuersbrunn
+  ?? ha
+
+[schaeffererich]
+  Weinbau Erich & Elisabeth Schäffer|Erich Schäffer (????)
+  Große Zeile 52 // 3483 Feuersbrunn
+  www.weinbau-schaeffer.at
+  ?? ha
+
+[franzschober]
+  Weinbau Franz Schober|Franz Schober (????) 
+  Kleine Zeile 5 // 3483 Feuersbrunn
+  ?? ha
+
+[erhardmoerwald]
+  ** Weinbau & Brennerei Mörwald|Erhard Mörwald (????), 1860 
+  Winzerweg 26 // 3483 Feuersbrunn
+  www.weinbau-moerwald.com
+  18 ha   #  Weingärten
+
+[zehetner]
+  * Weinbau & Buschenschank Zehetner|Gerhard Zehetner (????)
+  Leopoldkeller|Le'pold-Keller
+  Kirchengasse 8 // 3483 Feuersbrunn
+  www.lepoldkeller.at
+  ?? ha
+
+
+[ludlherbert]
+  Weinbau Ludl Herbert
+  Weinstrasse 16 // 3483 Feuersbrunn
+  ?? ha
+
+[urbaniheuriger]
+  * Weinbau & Urbani-Heuriger Kurt & Maria Urban
+  Weinstrasse  ?? // 3483 Feuersbrunn 
+  www.urbaniheuriger.at
+  ?? ha
+
+
+# [mayerhoermann]
+#  Winzerhof und Heuriger Familie Mayer-Hörmann|Hans Mayer (????)
+#  ﻿Weinstraße ﻿2 // 3483 ﻿Feuersbrunn   ## check street - correct? use a.d. Bundesstraße  ??
+#  www.veltliner.at
+# -- Heurigen in Feuersbrunn
+#  Weinkeller in 3492 Engabrunn, Kirchengasse 17 !!!
+
+
+[ernasturm]
+  Weinbau Erna Sturm
+  Kellergasse 9 // 3483 Feuersbrunn
+  ?? ha
+
+
+[clemensstrobl]
+  Weinmanufaktur Strobl
+  www.clemens-strobl.at
+  ?? ha
+

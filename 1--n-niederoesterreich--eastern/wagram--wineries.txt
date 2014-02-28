@@ -7,38 +7,6 @@
 # Wichtige Weinbauorte:
 #   Feuersbrunn, Fels, Grossriedenthal, Gösing, Kirchberg, Großweikersdorf, Klosterneuburg
 
-
-________________________
-- Feuersbrunn
-
-
-[antonbauer]
-  Anton Bauer (1971)
-  Neufang 42 // 3483 Feuersbrunn
-  www.antonbauer.at
-  25 ha
-
-[josefbauer]
-  Josef Bauer (????)
-  Neufang 52 // 3483 Feuersbrunn
-  www.josefbauer.at
-  ?? ha
-
-[ott]
-  Bernhard Ott (1972)|Weingut Ott|Weingut Ott Bernhard, 1889
-  Neufang 36 // 3483 Feuersbrunn
-  www.ott.at
-  30 ha
-  # Verein Österreichischen Traditionsweingüter (www.traditionsweingueter.at)
-
-
-[weingutpolsterer]
-  Andreas B. Polsterer (1970)|Weingut Andreas B. Polsterer
-  www.weingut-polsterer.at
-  Neufang 9 // 3483 Feuersbrunn
-  ?? ha
-
-
 _______________________________________
 - Fels am Wagram
 
@@ -58,6 +26,12 @@ _______________________________________
 _______________________________________
 - Gösing am Wagram
 
+[ludwigguentschl]
+  Weingut Ludwig Güntschl|Ludwig Güntschl (1972)
+  Untere Zeile 4 // 3482 Gösing am Wagram
+  www.guentschl.at 
+  ?? ha
+
 [weingutsoellner]
   Söllner Bioweingut|Weingut Söllner|Toni Söllner (????)
   Hauptstraße 34 // 3482 Gösing am Wagram
@@ -68,7 +42,7 @@ ________________________________________
 - Engelmannsbrunn
 
 [weingutwaltner]
-  Gerald Waltner (????)
+  Weingut Gerald Waltner|Gerald Waltner (????)
   Am Berg 18 // 3470 Engelmannsbrunn
   www.weingutwaltner.at
   ?? ha
@@ -86,7 +60,7 @@ _______________________________________
 - Oberstockstall (Gemeinde Kirchberg)
 
 [gutoberstockstall]
-  Gut Oberstockstall|Fritz Salomon (????)   ## - add Birgit Salomon (????) too ??
+  Gut Oberstockstall|Fritz Salomon (????)
   Oberstockstall 1 // 3470 Kirchberg am Wagram   ## fix: use 3470 Oberstockstall for city??
   www.gutoberstockstall.at
   ?? ha
