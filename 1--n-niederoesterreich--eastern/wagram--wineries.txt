@@ -13,11 +13,16 @@ ________________________
 
 
 [antonbauer]
-  Anton Bauer (1970)
+  Anton Bauer (1971)
   Neufang 42 // 3483 Feuersbrunn
   www.antonbauer.at
   25 ha
 
+[josefbauer]
+  Josef Bauer (????)
+  Neufang 52 // 3483 Feuersbrunn
+  www.josefbauer.at
+  ?? ha
 
 [ott]
   Bernhard Ott (1972)|Weingut Ott|Weingut Ott Bernhard, 1889
@@ -27,9 +32,62 @@ ________________________
   # Verein Österreichischen Traditionsweingüter (www.traditionsweingueter.at)
 
 
-[andreaspolsterer]
+[weingutpolsterer]
   Andreas B. Polsterer (1970)|Weingut Andreas B. Polsterer
   www.weingut-polsterer.at
   Neufang 9 // 3483 Feuersbrunn
+  ?? ha
 
+
+_______________________________________
+- Fels am Wagram
+
+[weingutleth]
+  Franz Leth (????)|Weingut Leth
+  www.weingut-leth.at
+  Kirchengasse 6 // 3481 Fels am Wagram
+  ?? ha
+
+[wimmerczerny]
+  Wimmer-Czerny|Franz Czerny (????) 
+  www.wimmer-czerny.at
+  Obere Markttraße 37 // 3481 Fels am Wagram
+  ?? ha
+
+
+_______________________________________
+- Gösing am Wagram
+
+[weingutsoellner]
+  Söllner Bioweingut|Weingut Söllner|Toni Söllner (????)
+  Hauptstraße 34 // 3482 Gösing am Wagram
+  www.weingut-soellner.at
+  ?? ha
+
+________________________________________
+- Engelmannsbrunn
+
+[weingutwaltner]
+  Gerald Waltner (????)
+  Am Berg 18 // 3470 Engelmannsbrunn
+  www.weingutwaltner.at
+  ?? ha
+
+_________________________________________
+- Mitterstockstall (Gemeinde Kirchberg)
+
+[eckhof]
+  Weingut Ecker|Eckhof|Bernhard Ecker (????) 
+  Mitterstockstall 25 // 3470 Kirchberg am Wagram   ## fix: use 3470 Mitterstockstall for city??
+  www.eckhof.at
+  17 ha
+
+_______________________________________
+- Oberstockstall (Gemeinde Kirchberg)
+
+[gutoberstockstall]
+  Gut Oberstockstall|Fritz Salomon (????)   ## - add Birgit Salomon (????) too ??
+  Oberstockstall 1 // 3470 Kirchberg am Wagram   ## fix: use 3470 Oberstockstall for city??
+  www.gutoberstockstall.at
+  ?? ha
 

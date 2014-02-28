@@ -1,0 +1,139 @@
+###################################
+# White Wine Styles / Types
+
+
+# Note: In Österreich sind 22 weiße Rebsorten für die Produktion zugelassen
+#
+## Note: ha from 2009; source: http://www.oesterreichwein.at/unser-wein/oesterreichs-rebsorten/weisswein
+
+[gv]
+  Grüner Veltliner|Weißgipfler
+  13_518 ha
+  de.wikipedia: Grüner_Veltliner
+
+[wr]
+  Welschriesling
+  3_597 ha
+  de.wikipedia: Welschriesling
+
+[mt]
+  Müller Thurgau|Rivaner
+  2_102 ha
+  de.wikipedia: Müller-Thurgau
+
+[wb]
+  Weißburgunder|Weißer Burgunder|Pinot Blanc|Klevner
+  1_995 ha
+  de.wikipedia: Weißer_Burgunder
+
+[rr]
+  Riesling|Rheinriesling|Weißer Riesling
+  1_863 ha
+  de.wikipedia: Riesling
+
+[ch]
+  Chardonnay|Morillon
+  1_431 ha  #  ; Kreuzung => Burgunder x Heunisch
+  de.wikipedia: Chardonnay
+# In der Steiermark wird die Bezeichnung Morillon traditionellerweise als Synonym
+# In der Stmk. als Morillon bezeichnet
+
+[sb]
+  Sauvignon Blanc
+  de.wikipedia: Sauvignon_Blanc
+  933 ha
+
+[nb]
+  Neuburger
+  de.wikipedia: Neuburger
+  652 ha
+
+[mk]
+  Muskateller|Gelber Muskateller|Roter Muskateller
+  527 ha  # use Gelber Muskateller - why not??
+  de.wikipeida: Gelber_Muskateller|Roter_Muskateller   ## split into two - why - why not???
+
+[fv]
+  Frühroter Veltliner|Malvasier,
+  de.wikipedia: Frühroter_Veltliner
+  424 ha   # Kreuzung => Rotem Veltliner x Sylvaner 
+
+[sr]
+  Scheurebe|Sämling 88
+  398 ha
+  de.wikipedia: Scheurebe
+
+[mo]
+  Muskat-Ottonel
+  360 ha
+  de.wikipedia: Muskat-Ottonel
+
+[tr]
+  Traminer|Gelber Traminer|Gewürztraminer|Roter Traminer
+  321 ha
+  de.wikipedia: Traminer|Gewürztraminer  # split into two Traminer n Gewuerztraminer ??
+
+[bo]
+  Bouvier
+  234 ha       #  Kreuzung => Gelber Muskateller X Weißer Burgunder
+  de.wikipedia: Bouvier_(Rebsorte)
+
+[pg]
+  Pinot Gris|Grauburgunder|Ruländer
+  222 ha
+  de.wikipedia: Grauburgunder
+
+[rv]
+  Roter Veltliner
+  de.wikipedia: Roter_Veltliner
+  193 ha
+
+[gb]
+  Goldburger
+  de.wikipedia: Goldburger
+  150 ha
+  
+[rg]
+  Rotgipfler
+  105 ha
+  de.wikipedia: Rotgipfler
+
+[zf]
+  Zierfandler|Spätrot
+  85 ha
+  de.wikipedia: Zierfandler
+
+[sv]
+  Sylvaner|Silvaner|Grüner Sylvaner
+  43 ha
+  de.wikipedia: Silvaner
+
+[ju]
+  Jubiläumsrebe
+  13 ha
+  de.wikipedia: Jubiläumsrebe
+
+[fu]
+  Furmint
+  9 ha
+  de.wikipedia: Furmint
+
+
+[gs]
+  Gemischter Satz
+  807 ha
+  de.wikipedia: Gemischter_Satz
+
+
+# Andere Weißweinsorten  155 ha 
+# Total = 30_138 ha
+
+
+##################
+# what to do with non-official listed styles:
+#
+#  - kr, Kerner ???              - de.wikipedia: Kerner_(Rebsorte)
+#  - rm, Rosenmuskateller  ???   - de.wikipedia: Rosenmuskateller
+#  - se, Sémillon    ???         - de.wikipedia: Sémillon
+#  - 
+

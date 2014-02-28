@@ -1,0 +1,87 @@
+###################################
+# Red Wine Styles / Types
+
+
+# Note: In Österreich sind 13 rote Rebsorten für die Produktion zugelassen
+#
+## Note: ha from 2009; source: http://http://www.oesterreichwein.at/unser-wein/oesterreichs-rebsorten/rotwein
+
+
+[zw]
+  Zweigelt|Blauer Zweigelt|Rotburger
+  6_476 ha
+  de.wikipedia: Zweigelt
+
+
+[bf]
+  Blaufränkisch
+  3_225 ha
+  de.wikipedia: Blaufränkisch
+
+[bp]
+  Blauer Portugieser|Português Azul
+  1_622 ha
+  de.wikipedia: Blauer_Portugieser
+
+[bb]
+  Blauburger
+  903 ha
+  de.wikipedia: Blauburger
+
+[sl]
+  St. Laurent|Sankt Laurent
+  778 ha
+  de.wikipedia: St._Laurent
+
+[pn]
+  Pinot Noir|Blauburgunder|Blauer Spätburgunder
+  649 ha
+  de.wikipedia: Spätburgunder
+
+[me]
+  Merlot
+  649 ha
+  de.wikipedia: Merlot
+
+[cs]
+  Cabernet Sauvignon
+  594 ha
+  de.wikipedia: Cabernet_Sauvignon
+
+[bw]
+  Blauer Wildbacher  ## Schilcher
+  450 ha
+  de.wikipedia: Blauer_Wildbacher
+
+[ro]
+  Roesler
+  161 ha
+  de.wikipedia: Roesler_(Rebsorte)
+
+[sy]
+  Syrah|Shiraz
+  137 ha
+  de.wikipedia: Syrah
+
+[cf]
+  Cabernet Franc
+  56 ha
+  de.wikipedia: Cabernet_Franc
+
+[ra]
+  Ráthay
+  9 ha
+  de.wikipedia: Rathay
+
+
+
+[gsr]
+  Gemischter Satz Rot
+  51 ha
+
+### Andere Rotweinsorten, 9 ha
+### Gesamt Rot, 15.770 ha
+
+
+
+
