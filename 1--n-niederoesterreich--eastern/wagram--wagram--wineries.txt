@@ -1,17 +1,11 @@
+###################################
+# Wagram am Wagram
 
-___________________________________
-- Wagram am Wagram
 
 [reinhardgrausenburger]
-  Weinbau Reinhard Grausenburger 
+  Weinbau Reinhard Grausenburger    ## - jung Winzer - Michael ??? Grausenburger
   Dorfstrasse 2 // 3483 Wagram am Wagram
   ?? ha
-
-[donleithnerhof]
-  Donleithnerhof|Weinbau Erwin F. Haslinger|Erwin F. Hasliner (1975), 1687
-  Dorfstrasse 9 // 3483 Wagram am Wagram
-  www.don-vino.at
-  15 ha   # Weingärten    # -- was 8 ha 
 
 [dieterheiss]
   Weingut Dieter Heiss|Dieter Heiss (1970)
@@ -26,11 +20,22 @@ ___________________________________
 
 [franzpolsterer]
   Weinbau Franz Polsterer
-  Dorfstrasse 28 // 3483 Wagram am Wagram
+  Dorfstrasse 29 // 3483 Wagram am Wagram
   ?? ha
 
-[eduardbauer]
-  Weinbau Eduard Bauer|Eduard Bauer (????) 
+[edibauer]
+  Weinbau Edi Bauer|Eduard Bauer (????) 
   Wallner-Vetter-Gasse 12 // 3483 Wagram am Wagram
-  www.weinerlebnis-bauer.at   ## functional website or just a parking site ???
+  www.weinerlebnis-bauer.at    ## functional website or just a parking site ???
   ?? ha
+
+
+#########################################
+# former
+
+# [donleithnerhof]
+#  Donleithnerhof|Weinbau Erwin F. Haslinger|Erwin F. Hasliner (1975), 1687
+#  Dorfstrasse 9 // 3483 Wagram am Wagram
+#  www.don-vino.at
+#  15 ha   # Weingärten    # -- was 8 ha 
+#  -- keine Flaschenweine seit 2012 ???

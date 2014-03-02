@@ -1,6 +1,6 @@
+##########################################
+# Feuersbrunn, Wagram, Niederösterreich
 
-________________________
-- Feuersbrunn
 
 [antonbauer]
   *** Anton Bauer (1971)
@@ -30,11 +30,6 @@ ________________________
   Neufang 9 // 3483 Feuersbrunn
   ?? ha
 
-[famhintermayer]
-  Weinbau Familie Hintermayer
-  Neufang 39 // 3483 Feuersbrun
-  ?? ha
-
 [bruendy]
   *** Weingut Bründy|Weingut am Wagram|Winzerhof Rudolf Bründlmayer|Rudolf Bründlmayer (???)
   Neufang 31 // 3483 Feuersbrunn
@@ -47,10 +42,6 @@ ________________________
   www.weingut-polsterer.com
   11 ha
 
-[gerholdkarl]
-  Weinbau Gerhold Karl
-  Neufang 34 // 3483 Feuersbrunn
-  ?? ha
 
 [weinhofmarek]
   Weinhof Familie Marek|Heuriger im Hof|Martin Marek (1965)
@@ -59,37 +50,22 @@ ________________________
   5 ha  #  Weingärten 
 
 [oehlzelt]
-  Weinbau & Weinberg Heuriger Öhlzelt|Ernestine Öhlzelt(????)
+  Weinbau & Weinberg Heuriger Öhlzelt
   Neufang 15 // 3483 Feuersbrunn
   www.oehlzelt.at
   ?? ha
 
-[fampalk]
-  Weinbau Familie Palk
-  Neufang 14 // 3483 Feuersbrunn
-  ?? ha
 
 [erwinbayer]
   Weinbau Erwin Bayer
   Neufang 24 // 3483 Feuersbrunn
   ?? ha
 
-[friedl]
-  Weinbau Friedl|Anton Frieldl (????)
-  Neufang 7 // 3483 Feuersbrunn
-  ?? ha
-
-
-[manfredeckenfellner]
-  Weinbau Eckenfellner|Manfred Eckenfellner (????)
-  Winklweg 1 // 3483 Feuersbrunn
-  ?? ha
-
 
 [geraldwimmer]
   Winzerhof Gerald Wimmer|Gerald Wimmer (????) 
   Große Zeile 8 // 3483 Feuersbrunn
-  ### www.winzerhofwimmer.com   -- no longer in use ??
+  ### www.winzerhofwimmer.com   -- no longer in use
   ?? ha
 
 [waldhauser]
@@ -98,23 +74,24 @@ ________________________
   ?? ha
 
 [herbertwalzer]
-  Herbert Walzer ??? -- Weinbau???
+  Weinbau Herbert Walzer
   Große Zeile 12 // 3483 Feuersbrunn
-  ?? ha
+  ?? ha   ### check: Verkauf von Flaschenwein????
+
 
 [wernerschober]
-  Weinbau Werner Schober  -- Weinbau ???
+  Weinbau Werner Schober
   Große Zeile 17 // 3483 Feuersbrunn
-  ?? ha
-
-[walterzehetmayer]
-  Walter Zehetmayer ??? -- Weinbau???
-  Große Zeile 34 // 3483 Feuersbrunn
   ?? ha
 
 [ewaldhaslinger]
   Weingut Ewald Haslinger|Ewald Haslinger (????)
   Große Zeile 44 // 3483 Feuersbrunn
+  ?? ha
+
+[antonkoeckeis]
+  Weinbau Anton Köckeis
+  Große Zeile 46 // 3483 Feuersbrunn
   ?? ha
 
 [schaeffererich]
@@ -145,13 +122,30 @@ ________________________
 [ludlherbert]
   Weinbau Ludl Herbert
   Weinstrasse 16 // 3483 Feuersbrunn
-  ?? ha
+  ?? ha      ### check: Verkauf von Flaschenwein????
 
 [urbaniheuriger]
   * Weinbau & Urbani-Heuriger Kurt & Maria Urban
   Weinstrasse  ?? // 3483 Feuersbrunn 
   www.urbaniheuriger.at
   ?? ha
+
+
+
+[clemensstrobl]
+  Weinmanufaktur Strobl
+  www.clemens-strobl.at
+  ?? ha
+
+
+####################################
+# candidates ???
+
+
+# [ernasturm]
+#  Weinbau Erna Sturm
+#  Kellergasse 9 // 3483 Feuersbrunn
+#  ?? ha     -- Verkauf von Flaschen Wein????
 
 
 # [mayerhoermann]
@@ -162,14 +156,42 @@ ________________________
 #  Weinkeller in 3492 Engabrunn, Kirchengasse 17 !!!
 
 
-[ernasturm]
-  Weinbau Erna Sturm
-  Kellergasse 9 // 3483 Feuersbrunn
-  ?? ha
+##################################
+# former wineries
 
+# [famhintermayer]
+#  Weinbau Familie Hintermayer
+#  Neufang 39 // 3483 Feuersbrun
+#  ?? ha
+#  -- Pensonist, Hobbywinzer
 
-[clemensstrobl]
-  Weinmanufaktur Strobl
-  www.clemens-strobl.at
-  ?? ha
+# [gerholdkarl]
+#  Weinbau Gerhold Karl
+#  Neufang 34 // 3483 Feuersbrunn
+#  ?? ha
+#  Pensionist, Hobbywinzer
+
+#[fampalk]
+#  Weinbau Familie Palk
+#  Neufang 14 // 3483 Feuersbrunn
+#  ?? ha
+#  - Alois Palk verstorben
+
+#[manfredeckenfellner]
+#  Weinbau Eckenfellner|Manfred Eckenfellner (????)
+#  Winklweg 1 // 3483 Feuersbrunn
+#  ?? ha
+#  Hobbywinzer, Pensionist ???
+
+#[walterzehetmayer]
+#  Walter Zehetmayer ??? -- Weinbau???
+#  Große Zeile 34 // 3483 Feuersbrunn
+#  ?? ha
+#  Pensionist
+
+#[friedl]
+#  Weinbau Friedl|Anton Frieldl (????)
+#  Neufang 7 // 3483 Feuersbrunn
+#  ?? ha
+#  Pensionist
 
