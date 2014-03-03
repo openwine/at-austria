@@ -119,10 +119,14 @@
   de.wikipedia: Furmint
 
 
-[gs]
-  Gemischter Satz
-  807 ha
-  de.wikipedia: Gemischter_Satz
+# [gs]
+#  Gemischter Satz
+#  807 ha
+#  de.wikipedia: Gemischter_Satz
+#
+# move to varieties ?? or keep at grapes ???
+
+
 
 
 # Andere Weißweinsorten  155 ha 
@@ -136,4 +140,3 @@
 #  - rm, Rosenmuskateller  ???   - de.wikipedia: Rosenmuskateller
 #  - se, Sémillon    ???         - de.wikipedia: Sémillon
 #  - 
-

@@ -1,0 +1,19 @@
+#######################################
+# Vineyards in Feuersbrunn
+
+Spiegel        # 1. Lage ??
+Rosenberg      # 1. Lage ??
+Gmörk          # 1. Lage ??
+Hengstberg     # 1. Lage ??
+
+Berg         #   Sehr häufige Riedenbezeichnung für die südlich abfallenden Hänge am Wagram
+
+
+####
+## note: do NOT use if there's no vineyard-specific vine  -- e.g. comment out for now ??
+
+Hosenbandl
+Rietzenthal
+Holzweg
+Kreuzgang
+Welfel

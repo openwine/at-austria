@@ -1,0 +1,45 @@
+
+###
+# add some categories here
+#
+#  e.g. dac and others
+#
+#
+# Landwein
+# Tafelwein
+# Qualitätswein
+# Qualitätswein - Ausbruch
+# Qualitätswein - Auslese
+# Qualitätswein - Beerenauslese
+# Qualitätswein - Eiswein
+# Qualitätswein - Kabinett
+# Qualitätswein - Spätlese
+# Qualitätswein - Trockenbeerenauslese
+# Qualitätswein eines bestimmten Anbaugebietes
+# Qualitätswein mit Prädikat
+
+
+# Appellation Origine Contrôlée
+# Crus classés
+# Grands crus classés
+# Denominação de Origem Controlada
+#
+# DO - Crianza
+# DO - Gran Reserva
+# DO - Reserva
+# DOC - Classico
+
+
+#
+#
+#  dry, sweet, etc. ??  -- move to styles -- why? why not??
+#
+# use - why? why not?
+# white, dry, light and lively
+# white, dry, soft and fruity
+# white, dry, rich and distinctive
+# white, dry, very aromatic
+# white, demi-sec, mellow, syrupy
+# rosé, lively, and fruity
+# rosé, winey and full-bodied
+

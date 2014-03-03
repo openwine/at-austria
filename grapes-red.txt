@@ -74,10 +74,16 @@
   de.wikipedia: Rathay
 
 
+########
+#
+#[gsr]
+#  Gemischter Satz Rot
+#  51 ha
+#
+# move to varieties ?? or keep at grapes ???
 
-[gsr]
-  Gemischter Satz Rot
-  51 ha
+
+
 
 ### Andere Rotweinsorten, 9 ha
 ### Gesamt Rot, 15.770 ha

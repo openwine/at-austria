@@ -1,0 +1,42 @@
+#########################################################################
+# Heurige (Wine Taverns) in Feuersbrunn › Wagram › Niederösterreich (N)
+
+
+###
+## todo: how to link heurige (tavern) with winery
+##   - repeat weblink ?? repead address ?? or remove ??
+##   - repeat address ??
+##  - use key to link together  or just name of winery ??
+
+
+[mayerhoermann]
+  Heuriger Familie Mayer-Hörmann
+  ﻿Weinstraße ﻿2 // 3483 ﻿Feuersbrunn   ## check street - correct? use a.d. Bundesstraße  ??
+  www.veltliner.at
+# -- Heurigen in Feuersbrunn
+#  Weinkeller in 3492 Engabrunn, Kirchengasse 17 !!!
+
+
+[weinhofmarek]
+  Heuriger im Hof|Heuriger im Hof Familie Marek
+  Neufang 17 // 3483 Feuersbrunn   ## same as winery/home address
+  www.weinhofmarek.at
+
+
+[oehlzelt]
+  Weinberg Heuriger Öhlzelt
+  Neufang 15 // 3483 Feuersbrunn   ### check address - different from "home/winery" address !!!!
+  www.oehlzelt.at
+
+
+[zehetner]
+  Leopoldkeller|Le'pold-Keller|Buschenschank Zehetner
+  Kirchengasse 8 // 3483 Feuersbrunn    ### check address - different from "home/winery" address !!!
+  www.lepoldkeller.at
+
+
+[kurturban]
+  Urbani-Heuriger|Urbani-Heuriger Kurt & Maria Urban
+  Weinstraße 8 // 3483 Feuersbrunn       ## same as winery/home address
+  www.urbaniheuriger.at
+

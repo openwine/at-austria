@@ -1,5 +1,5 @@
-##########################################
-# Feuersbrunn, Wagram, Niederösterreich
+###############################################
+# Feuersbrunn › Wagram › Niederösterreich (N)
 
 
 [antonbauer]
@@ -21,11 +21,11 @@
   Neufang 36 // 3483 Feuersbrunn
   www.ott.at
   30 ha   #  Weingärten
-  # Verein Österreichischen Traditionsweingüter (www.traditionsweingueter.at)
+  traditionsweingueter  # Verein Österreichischen Traditionsweingüter (www.traditionsweingueter.at)
 
 
 [andreaspolsterer]
-  ** Weingut Andreas B. Polsterer|Andreas B. Polsterer (1970)
+  ** Weingut Andreas Polsterer|Andreas Polsterer (1970)
   www.weingut-polsterer.at
   Neufang 9 // 3483 Feuersbrunn
   ?? ha
@@ -35,29 +35,31 @@
   Neufang 31 // 3483 Feuersbrunn
   www.bruendy.at
   ?? ha
+  traditionsweingueter # Verein Österreichischen Traditionsweingüter (www.traditionsweingueter.at)
+
 
 [walterposterer]
-  Weinbau Walter Polsterer
+  Weinbau Walter Polsterer|Walter Polsterer (????)
   Neufang 25 // 3483 Feuersbrunn
   www.weingut-polsterer.com
   11 ha
 
 
 [weinhofmarek]
-  Weinhof Familie Marek|Heuriger im Hof|Martin Marek (1965)
+  Weinhof Familie Marek|Martin Marek (1965)   ## see Heuriger im Hof Familie Marek
   Neufang 17 // 3483 Feuersbrunn
   www.weinhofmarek.at
   5 ha  #  Weingärten 
 
 [oehlzelt]
-  Weinbau & Weinberg Heuriger Öhlzelt
+  Weinbau Öhlzelt    ## see Weinberg Heuriger Öhlzelt
   Neufang 15 // 3483 Feuersbrunn
   www.oehlzelt.at
   ?? ha
 
 
 [erwinbayer]
-  Weinbau Erwin Bayer
+  Weinbau Erwin Bayer|Erwin Bayer (????)
   Neufang 24 // 3483 Feuersbrunn
   ?? ha
 
@@ -69,18 +71,18 @@
   ?? ha
 
 [waldhauser]
-  Weinbau Familie Waldhauser
+  Weinbau Familie Waldhauser|Georg Waldhauser (????)
   Große Zeile 10 // 3483 Feuersbrunn
   ?? ha
 
 [herbertwalzer]
-  Weinbau Herbert Walzer
+  Weinbau Herbert Walzer|Herbert Walzer (????)
   Große Zeile 12 // 3483 Feuersbrunn
   ?? ha   ### check: Verkauf von Flaschenwein????
 
 
 [wernerschober]
-  Weinbau Werner Schober
+  Weinbau Werner Schober|Werner Schober (????)
   Große Zeile 17 // 3483 Feuersbrunn
   ?? ha
 
@@ -90,7 +92,7 @@
   ?? ha
 
 [antonkoeckeis]
-  Weinbau Anton Köckeis
+  Weinbau Anton Köckeis|Anton Köckeis (????)
   Große Zeile 46 // 3483 Feuersbrunn
   ?? ha
 
@@ -106,30 +108,27 @@
   ?? ha
 
 [erhardmoerwald]
-  ** Weinbau & Brennerei Mörwald|Erhard Mörwald (????), 1860 
+  ** Weinbau Mörwald|Erhard Mörwald (????), 1860 
   Winzerweg 26 // 3483 Feuersbrunn
   www.weinbau-moerwald.com
   18 ha   #  Weingärten
 
 [zehetner]
-  * Weinbau & Buschenschank Zehetner|Gerhard Zehetner (????)
-  Leopoldkeller|Le'pold-Keller
+  * Weinbau Zehetner|Gerhard Zehetner (????)  ### see Buschenschank Zehetner|Leopoldkeller|Le'pold-Keller
   Kirchengasse 8 // 3483 Feuersbrunn
   www.lepoldkeller.at
   ?? ha
 
-
-[ludlherbert]
-  Weinbau Ludl Herbert
-  Weinstrasse 16 // 3483 Feuersbrunn
+[herbertludl]
+  Weinbau Herbert Ludl|Herbert Ludl (????)
+  Weinstraße 16 // 3483 Feuersbrunn
   ?? ha      ### check: Verkauf von Flaschenwein????
 
-[urbaniheuriger]
-  * Weinbau & Urbani-Heuriger Kurt & Maria Urban
-  Weinstrasse  ?? // 3483 Feuersbrunn 
+[kurturban]
+  * Weinbau Kurt & Maria Urban|Kurt Urban (????)  ### see Urbani-Heuriger
+  Weinstraße 8 // 3483 Feuersbrunn 
   www.urbaniheuriger.at
   ?? ha
-
 
 
 [clemensstrobl]
@@ -147,13 +146,6 @@
 #  Kellergasse 9 // 3483 Feuersbrunn
 #  ?? ha     -- Verkauf von Flaschen Wein????
 
-
-# [mayerhoermann]
-#  Winzerhof und Heuriger Familie Mayer-Hörmann|Hans Mayer (????)
-#  ﻿Weinstraße ﻿2 // 3483 ﻿Feuersbrunn   ## check street - correct? use a.d. Bundesstraße  ??
-#  www.veltliner.at
-# -- Heurigen in Feuersbrunn
-#  Weinkeller in 3492 Engabrunn, Kirchengasse 17 !!!
 
 
 ##################################

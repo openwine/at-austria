@@ -1,9 +1,9 @@
-###################################
-# Wagram am Wagram
+######################################################
+# Wagram am Wagram › Wagram › Niederösterreich (N)
 
 
 [reinhardgrausenburger]
-  Weinbau Reinhard Grausenburger    ## - jung Winzer - Michael ??? Grausenburger
+  Weinbau Reinhard Grausenburger|Reinhard Grausenburger (????)   ## - jung Winzer - Michael ??? Grausenburger
   Dorfstrasse 2 // 3483 Wagram am Wagram
   ?? ha
 
@@ -19,15 +19,16 @@
   ?? ha
 
 [franzpolsterer]
-  Weinbau Franz Polsterer
+  Weinbau Franz Polsterer|Franz Polsterer (????)
   Dorfstrasse 29 // 3483 Wagram am Wagram
   ?? ha
 
 [edibauer]
-  Weinbau Edi Bauer|Eduard Bauer (????) 
+  Weinbau Edi Bauer|Edi Bauer|Eduard Bauer (????) 
   Wallner-Vetter-Gasse 12 // 3483 Wagram am Wagram
   www.weinerlebnis-bauer.at    ## functional website or just a parking site ???
   ?? ha
+
 
 
 #########################################
