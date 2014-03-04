@@ -2,16 +2,30 @@
 wineries:
 #- at-austria!/1--b-burgenland--eastern/wineries
 - at-austria!/1--n-niederoesterreich--eastern/wineries
-- at-austria!/1--n-niederoesterreich--eastern/wagram--feuersbrunn--wineries
-- at-austria!/1--n-niederoesterreich--eastern/wagram--wagram--wineries
-- at-austria!/1--n-niederoesterreich--eastern/wagram--wineries
+- at-austria!/1--n-niederoesterreich--eastern/wagram/feuersbrunn--wineries
+- at-austria!/1--n-niederoesterreich--eastern/wagram/wagram--wineries
+- at-austria!/1--n-niederoesterreich--eastern/wagram/wineries
 #- at-austria!/1--w-wien--eastern/wineries
 #- at-austria!/2--st-steiermark--southern/wineries
+
+vineyards:
+- at-austria!/1--n-niederoesterreich--eastern/wagram/feuersbrunn--vineyards
+
+#
+# fix: allow/add alias heurige for taverns !!!
+#taverns:
+#- at-austria!/1--n-niederoesterreich--eastern/wagram/feuersbrunn--heurige
+#
+
+#
+# todo: add shops:
+#
 
 wines:
 #- at-austria!/1--b-burgenland--eastern/wines
 - at-austria!/1--n-niederoesterreich--eastern/wines
-- at-austria!/1--n-niederoesterreich--eastern/wagram--wines
+- at-austria!/1--n-niederoesterreich--eastern/wagram/feuersbrunn--wines
+- at-austria!/1--n-niederoesterreich--eastern/wagram/wines
 #- at-austria!/1--w-wien--eastern/wines
 #- at-austria!/2--st-steiermark--southern/wines
 
